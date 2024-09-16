@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "issuer_name": "Company A",
+      "deal_name": "Deal 1",
+      "bloomberg_id": "BBG001",
+      "total": 1000000.00,
+      "industry": "Tech",
+      "status": "Open",
+      "analysts": ["John Doe", "Jane Doe"],
+      "doc_count": 5,
+      "custom_deal_identifiers": ["ID-1", "ID-2"]
+    },
+    {
+      "id": 2,
+      "issuer_name": "Company B",
+      "deal_name": "Deal 1",
+      "bloomberg_id": "BBG001",
+      "total": 1000000.00,
+      "industry": "Tech",
+      "status": "Open",
+      "analysts": ["John Doe", "Jane Doe"],
+      "doc_count": 5,
+      "custom_deal_identifiers": ["ID-1", "ID-2"]
+    },
+    {
+      "id": 3,
+      "issuer_name": "Nestle",
+      "deal_name": "Deal 40",
+      "bloomberg_id": "BBG001",
+      "total": 1000000.00,
+      "industry": "Tech",
+      "status": "Open",
+      "analysts": ["John Doe", "Jane Doe"],
+      "doc_count": 5,
+      "custom_deal_identifiers": ["ID-1", "ID-2"]
+    }
+
+  ]
